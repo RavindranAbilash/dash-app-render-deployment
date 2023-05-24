@@ -57,7 +57,7 @@ $ gunicorn app:server
 * Render will automatically build and deploy your application. This may take several minutes to complete.
 * Once the deployment is complete, you can click on the service URL to view your application.
 
-Our [dashboard application](https://wine-quality-dashboard-app.onrender.com) is now successfully deployed on Render. It is now live and can be accessed from anywhere with an internet connection.
+Our [dashboard application](https://wine-quality-prediction-e18013.onrender.com/) is now successfully deployed on Render. It is now live and can be accessed from anywhere with an internet connection.
 
 
 
